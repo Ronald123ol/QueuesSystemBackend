@@ -1,0 +1,15 @@
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Application\bin\Debug\net6.0\QueuesSystem.Application.deps.json
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Application\bin\Debug\net6.0\QueuesSystem.Application.dll
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Application\bin\Debug\net6.0\QueuesSystem.Application.pdb
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Application\bin\Debug\net6.0\QueuesSystem.Domain.dll
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Application\bin\Debug\net6.0\QueuesSystem.Domain.pdb
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Application\obj\Debug\net6.0\QueuesSystem.Application.csproj.AssemblyReference.cache
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Application\obj\Debug\net6.0\QueuesSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Application\obj\Debug\net6.0\QueuesSystem.Application.AssemblyInfoInputs.cache
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Application\obj\Debug\net6.0\QueuesSystem.Application.AssemblyInfo.cs
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Application\obj\Debug\net6.0\QueuesSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Application\obj\Debug\net6.0\QueuesSystem.Application.csproj.CopyComplete
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Application\obj\Debug\net6.0\QueuesSystem.Application.dll
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Application\obj\Debug\net6.0\refint\QueuesSystem.Application.dll
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Application\obj\Debug\net6.0\QueuesSystem.Application.pdb
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Application\obj\Debug\net6.0\ref\QueuesSystem.Application.dll

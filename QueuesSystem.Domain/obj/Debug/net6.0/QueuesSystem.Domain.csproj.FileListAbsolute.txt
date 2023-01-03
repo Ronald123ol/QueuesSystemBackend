@@ -1,0 +1,12 @@
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Domain\bin\Debug\net6.0\QueuesSystem.Domain.deps.json
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Domain\bin\Debug\net6.0\QueuesSystem.Domain.dll
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Domain\bin\Debug\net6.0\QueuesSystem.Domain.pdb
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Domain\obj\Debug\net6.0\QueuesSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Domain\obj\Debug\net6.0\QueuesSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Domain\obj\Debug\net6.0\QueuesSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Domain\obj\Debug\net6.0\QueuesSystem.Domain.AssemblyInfo.cs
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Domain\obj\Debug\net6.0\QueuesSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Domain\obj\Debug\net6.0\QueuesSystem.Domain.dll
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Domain\obj\Debug\net6.0\refint\QueuesSystem.Domain.dll
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Domain\obj\Debug\net6.0\QueuesSystem.Domain.pdb
+C:\Users\ronal\source\repos\EventCatalogServiceApi\QueuesSystem\QueuesSystem.Domain\obj\Debug\net6.0\ref\QueuesSystem.Domain.dll
